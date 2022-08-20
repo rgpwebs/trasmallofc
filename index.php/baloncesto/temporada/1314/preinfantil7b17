@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Preinfantil</title>
+	<subtitle type="text">Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.trasmallofc.es"/>
+	<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/1314/preinfantil</id>
+	<updated>2022-08-20T14:44:08+02:00</updated>
+	<author>
+		<name>Trasmallo FC</name>
+		<email>trasmallofc@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/1314/preinfantil?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Getting Started</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/1314/preinfantil/1-getting-started"/>
+		<published>2013-11-16T01:00:00+01:00</published>
+		<updated>2013-11-16T01:00:00+01:00</updated>
+		<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/1314/preinfantil/1-getting-started</id>
+		<author>
+			<name>Super User</name>
+			<email>enoyx.web@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;It's easy to get started creating your website. Knowing some of the basics will help.&lt;/p&gt;
+&lt;h3&gt;What is a Content Management System?&lt;/h3&gt;
+&lt;p&gt;A content management system is software that allows you to create and manage webpages easily by separating the creation of your content from the mechanics required to present it on the web.&lt;/p&gt;
+&lt;p&gt;In this site, the content is stored in a &lt;em&gt;database&lt;/em&gt;. The look and feel are created by a &lt;em&gt;template&lt;/em&gt;. Joomla! brings together the template and your content to create web pages.&lt;/p&gt;
+&lt;h3&gt;Logging in&lt;/h3&gt;
+&lt;p&gt;To login to your site use the user name and password that were created as part of the installation process. Once logged-in you will be able to create and edit articles and modify some settings.&lt;/p&gt;
+&lt;h3&gt;Creating an article&lt;/h3&gt;
+&lt;p&gt;Once you are logged-in, a new menu will be visible. To create a new article, click on the &quot;Submit Article&quot; link on that menu.&lt;/p&gt;
+&lt;p&gt;The new article interface gives you a lot of options, but all you need to do is add a title and put something in the content area. To make it easy to find, set the state to published.&lt;/p&gt;
+&lt;div&gt;You can edit an existing article by clicking on the edit icon (this only displays to users who have the right to edit).&lt;/div&gt;
+&lt;h3&gt;Template, site settings, and modules&lt;/h3&gt;
+&lt;p&gt;The look and feel of your site is controlled by a template. You can change the site name, background colour, highlights colour and more by editing the template settings. Click the &quot;Template Settings&quot; in the user menu. &lt;/p&gt;
+&lt;p&gt;The boxes around the main content of the site are called modules.  You can modify modules on the current page by moving your cursor to the module and clicking the edit link. Always be sure to save and close any module you edit.&lt;/p&gt;
+&lt;p&gt;You can change some site settings such as the site name and description by clicking on the &quot;Site Settings&quot; link.&lt;/p&gt;
+&lt;p&gt;More advanced options for templates, site settings, modules, and more are available in the site administrator.&lt;/p&gt;
+&lt;h3&gt;Site and Administrator&lt;/h3&gt;
+&lt;p&gt;Your site actually has two separate sites. The site (also called the front end) is what visitors to your site will see. The administrator (also called the back end) is only used by people managing your site. You can access the administrator by clicking the &quot;Site Administrator&quot; link on the &quot;User Menu&quot; menu (visible once you login) or by adding /administrator to the end of your domain name. The same user name and password are used for both sites.&lt;/p&gt;
+&lt;h3&gt;Learn more&lt;/h3&gt;
+&lt;p&gt;There is much more to learn about how to use Joomla! to create the web site you envision. You can learn much more at the &lt;a href=&quot;http://docs.joomla.org&quot; target=&quot;_blank&quot;&gt;Joomla! documentation site&lt;/a&gt; and on the&lt;a href=&quot;http://forum.joomla.org&quot; target=&quot;_blank&quot;&gt; Joomla! forums&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;It's easy to get started creating your website. Knowing some of the basics will help.&lt;/p&gt;
+&lt;h3&gt;What is a Content Management System?&lt;/h3&gt;
+&lt;p&gt;A content management system is software that allows you to create and manage webpages easily by separating the creation of your content from the mechanics required to present it on the web.&lt;/p&gt;
+&lt;p&gt;In this site, the content is stored in a &lt;em&gt;database&lt;/em&gt;. The look and feel are created by a &lt;em&gt;template&lt;/em&gt;. Joomla! brings together the template and your content to create web pages.&lt;/p&gt;
+&lt;h3&gt;Logging in&lt;/h3&gt;
+&lt;p&gt;To login to your site use the user name and password that were created as part of the installation process. Once logged-in you will be able to create and edit articles and modify some settings.&lt;/p&gt;
+&lt;h3&gt;Creating an article&lt;/h3&gt;
+&lt;p&gt;Once you are logged-in, a new menu will be visible. To create a new article, click on the &quot;Submit Article&quot; link on that menu.&lt;/p&gt;
+&lt;p&gt;The new article interface gives you a lot of options, but all you need to do is add a title and put something in the content area. To make it easy to find, set the state to published.&lt;/p&gt;
+&lt;div&gt;You can edit an existing article by clicking on the edit icon (this only displays to users who have the right to edit).&lt;/div&gt;
+&lt;h3&gt;Template, site settings, and modules&lt;/h3&gt;
+&lt;p&gt;The look and feel of your site is controlled by a template. You can change the site name, background colour, highlights colour and more by editing the template settings. Click the &quot;Template Settings&quot; in the user menu. &lt;/p&gt;
+&lt;p&gt;The boxes around the main content of the site are called modules.  You can modify modules on the current page by moving your cursor to the module and clicking the edit link. Always be sure to save and close any module you edit.&lt;/p&gt;
+&lt;p&gt;You can change some site settings such as the site name and description by clicking on the &quot;Site Settings&quot; link.&lt;/p&gt;
+&lt;p&gt;More advanced options for templates, site settings, modules, and more are available in the site administrator.&lt;/p&gt;
+&lt;h3&gt;Site and Administrator&lt;/h3&gt;
+&lt;p&gt;Your site actually has two separate sites. The site (also called the front end) is what visitors to your site will see. The administrator (also called the back end) is only used by people managing your site. You can access the administrator by clicking the &quot;Site Administrator&quot; link on the &quot;User Menu&quot; menu (visible once you login) or by adding /administrator to the end of your domain name. The same user name and password are used for both sites.&lt;/p&gt;
+&lt;h3&gt;Learn more&lt;/h3&gt;
+&lt;p&gt;There is much more to learn about how to use Joomla! to create the web site you envision. You can learn much more at the &lt;a href=&quot;http://docs.joomla.org&quot; target=&quot;_blank&quot;&gt;Joomla! documentation site&lt;/a&gt; and on the&lt;a href=&quot;http://forum.joomla.org&quot; target=&quot;_blank&quot;&gt; Joomla! forums&lt;/a&gt;.&lt;/p&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>ALEVIN  Semifinalista en  Mundialito  Rosport</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/1314/preinfantil/316-alevin-semifinalista-en-mundialito-rosport"/>
+		<published>2013-06-06T09:40:47+02:00</published>
+		<updated>2013-06-06T09:40:47+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/1314/preinfantil/316-alevin-semifinalista-en-mundialito-rosport</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div&gt;&lt;object style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;532&quot; height=&quot;368&quot; data=&quot;http://pf.kizoa.com/sflite.swf?did=4666236&amp;amp;k=5613414&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://pf.kizoa.com/sflite.swf?did=4666236&amp;amp;k=5613414&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;El pasado sábado se disputó en el José del Cuvillo el Mundialito Rosport 2013 de fútbol base con la participación de Trasmallo FC alevín. La valoración final de la actuación de nuestro equipo en el torneo puede considerarse de sobresaliente ya que a pesar de ausencias importantes en el equipo se llegó a semifinales donde se perdió por la mínima ante Federico Mayo (0 a 1). Antes, nuestros jugadores pasaron como primeros en su grupo al derrotar a Chiclana CF por 3 a 2 tras una gran remontada y empatar a un gol con Bda. de la Playa. En el cruce de cuartos de final del que ofrecemos imágenes los naranjas supieron imponer su juego ante Pago San José de Jeréz al que derrotó por 2 a 0.&lt;/p&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;object style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;532&quot; height=&quot;368&quot; data=&quot;http://pf.kizoa.com/sflite.swf?did=4666236&amp;amp;k=5613414&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://pf.kizoa.com/sflite.swf?did=4666236&amp;amp;k=5613414&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;El pasado sábado se disputó en el José del Cuvillo el Mundialito Rosport 2013 de fútbol base con la participación de Trasmallo FC alevín. La valoración final de la actuación de nuestro equipo en el torneo puede considerarse de sobresaliente ya que a pesar de ausencias importantes en el equipo se llegó a semifinales donde se perdió por la mínima ante Federico Mayo (0 a 1). Antes, nuestros jugadores pasaron como primeros en su grupo al derrotar a Chiclana CF por 3 a 2 tras una gran remontada y empatar a un gol con Bda. de la Playa. En el cruce de cuartos de final del que ofrecemos imágenes los naranjas supieron imponer su juego ante Pago San José de Jeréz al que derrotó por 2 a 0.&lt;/p&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>COPA y   en   Infantil    subcampeones</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/1314/preinfantil/314-copa-y-en-infantil-subcampeones"/>
+		<published>2013-05-30T07:40:47+02:00</published>
+		<updated>2013-05-30T07:40:47+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/1314/preinfantil/314-copa-y-en-infantil-subcampeones</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/67246284&quot; frameborder=&quot;0&quot; width=&quot;532&quot; height=&quot;368&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;true&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/67246284&quot; frameborder=&quot;0&quot; width=&quot;532&quot; height=&quot;368&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;true&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Juega limpio</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/inicio/juega-limpio"/>
+		<published>2011-07-27T15:38:46+02:00</published>
+		<updated>2011-07-27T15:38:46+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/inicio/juega-limpio</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: center; font-size: 140%;&quot;&gt;&lt;strong&gt;CÓDIGO DEL JUEGO LIMPIO EN EL DEPORTE BASE &lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center; font-size: 140%;&quot;&gt; &lt;/p&gt;
+&lt;p&gt;El código tiene como objetivos:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Devolverle al joven deportista satisfacción y diversión.&lt;/li&gt;
+&lt;li&gt;Concienciar a los adultos que los niños juegan para sentirse realizados y no necesariamente para satisfacer a los adultos o miembros del grupo de sus mayores.&lt;/li&gt;
+&lt;li&gt;Estimular la participación en el deporte, haciéndolo atractivo, seguro y agradable a todos los niños.&lt;/li&gt;
+&lt;li&gt;Contribuir a que todos los participantes del deporte comprendan las responsabilidades e implicancias de la libertad de elegir entre el juego leal y desleal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CÓDIGO DEL ENTRENADOR:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sea razonable en sus demandas de tiempo, energía y entusiasmo de los jóvenes jugadores. Recuerde que tienen otros intereses.&lt;/li&gt;
+&lt;li&gt;Enseñe a sus jugadores que las reglas del juego son acuerdos mutuos que nadie debe dejar de cumplir o evadir.&lt;/li&gt;
+&lt;li&gt;Evite hacer jugar en demasía a los jugadores con mas talento. Los jugadores promedio necesitan y merecen igual tiempo.&lt;/li&gt;
+&lt;li&gt;Recuerde que los niños juegan para entretenerse y para divertirse y que ganar es tan solo una parte de ello. Nunca ridiculice o grite a los niños que cometen errores o porque pierdan un partido.&lt;/li&gt;
+&lt;li&gt;Asegúrese que los elementos a utilizar por sus dirigidos sean apropiados a la edad de los niños. La periodicidad y duración de los entrenamientos y de los partidos deberán ser acordes con la edad de los niños.&lt;/li&gt;
+&lt;li&gt;Fomente el respeto del equipo con las destrezas del grupo o oponente, como así también hacia las decisiones de los árbitros y entrenadores contrarios.&lt;/li&gt;
+&lt;li&gt;Siga consejos médicos para saber cuando un jugador lesionado pueda volver a jugar.&lt;/li&gt;
+&lt;li&gt;Recuerde que los niños necesitan un entrenador al cual poder respetar. Sea generoso con sus elogios cuando son merecidos y dé un buen ejemplo.&lt;/li&gt;
+&lt;li&gt;Asuma el compromiso personal de mantenerse informado acerca de las reglas del juego y de los métodos de enseñanza.&lt;/li&gt;
+&lt;li&gt;Ayude a que los niños a comprendan las diferencias entre los partidos de los adultos y los partidos que ellos juegan.&lt;/li&gt;
+&lt;li&gt;Inculque la importancia fundamental del tercer tiempo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DE PADRES: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No obligue a su hijo a practicar un deporte que no desea. Recuerde que los niños practican un deporte para su propia diversión, no la suya.&lt;/li&gt;
+&lt;li&gt;Aliente a su hijo a jugar de acuerdo a las reglas.&lt;/li&gt;
+&lt;li&gt;Enseñe a su hijo que el esfuerzo honesto es tan importante como la victoria a efecto de que el resultado de cada partido sea aceptado sin una indebida desilusión.&lt;/li&gt;
+&lt;li&gt;Convierta una derrota en victoria ayudando a su hijo a mejorar sus destrezas y a ser un buen deportista. Nunca ridiculice a su hijo por cometer errores o porque pierda un partido.&lt;/li&gt;
+&lt;li&gt;Recuerde que los niños aprenden mediante el ejemplo. Aplauda el buen juego de su equipo y el del oponente.&lt;/li&gt;
+&lt;li&gt;Nunca cuestione las decisiones de los árbitros y menos su honestidad.&lt;/li&gt;
+&lt;li&gt;Apoye todos los esfuerzos para eliminar los abusos físicos y verbales del deporte infantil.&lt;/li&gt;
+&lt;li&gt;Reconozca el valor y la importancia de los auxiliares voluntarios. Aportan su tiempo y esfuerzos para brindar una actividad recreativa a sus hijos.&lt;/li&gt;
+&lt;li&gt;Contribuya a que los niños entiendan la importancia del tercer tiempo.&lt;/li&gt;
+&lt;li&gt;Ayude a que su hijo comprenda las diferencias que existen entre los partidos que ellos juegan y los partidos de los adultos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DE LOS ARBITROS: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adapte las reglas y reglamentaciones al nivel de destrezas de los jugadores.&lt;/li&gt;
+&lt;li&gt;Emplee el sentido común a fin de asegurar que el espíritu del juego, para los niños, no se pierda interrumpiendo excesivamente el partido.&lt;/li&gt;
+&lt;li&gt;Las acciones hablan más que las palabras. Asegúrese que sus acciones y comportamiento dentro y fuera de la cancha sea coherente con los principios de un buen deportista.&lt;/li&gt;
+&lt;li&gt;Elogie el juego de ambos equipos cada vez que ello sea merecido. Sea objetivo, coherente y cortés. Condene la mala jugada deliberada por ser poco deportiva. Conservando de esta forma el respeto por el juego limpio.&lt;/li&gt;
+&lt;li&gt;Asuma el compromiso personal de mantenerse informado acerca de los principios cabales del arbitraje, así como los principios del crecimiento y desarrollo de los niños.&lt;/li&gt;
+&lt;li&gt;No olvide su tarea formativa. Asegúrese que sus decisiones sean comprendidos por los jugadores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DE LOS COORDINADORES: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Asegúrese que iguales posibilidades para participar en el deporte sean ofrecidas a todos los niños, sin consideraciones de habilidad, edad u otras circunstancias.&lt;/li&gt;
+&lt;li&gt;Vigile que los entrenadores de su Club creen oportunidades para enseñar el espíritu deportivo, de la misma manera que lo hacen con las destrezas básicas.&lt;/li&gt;
+&lt;li&gt;Aliente a los entrenadores a desarrollar destrezas básicas y evite la excesiva especialización en el juego posicional durante los años formativos.&lt;/li&gt;
+&lt;li&gt;Asegúrese que los elementos a utilizar sean apropiados a la edad de los niños. Las reglas y duración de las programaciones deberán tener en consideración la edad y nivel de comprensión de los niños.&lt;/li&gt;
+&lt;li&gt;Distribuya un código de &quot;ética&quot; sobre el buen deportista entre sus jugadores, entrenadores, espectadores, padres y árbitros. Asegúrese que los padres, entrenadores, médicos y participantes comprendan su autoridad y responsabilidad para el juego leal.&lt;/li&gt;
+&lt;li&gt;Preocúpese de la capacitación de los entrenadores, proporcionándole la información a su alcance.&lt;/li&gt;
+&lt;li&gt;Preocúpese de crear condiciones para el cumplimiento del tercer tiempo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DEL ESPECTADOR: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recuerde que los niños participan en deportes organizados para su propio entretenimiento. No están allí para entretenerlo a Ud. y no son sus &quot;estrellas&quot; en miniatura.&lt;/li&gt;
+&lt;li&gt;Muestre su mejor comportamiento. No emplee lenguaje indebido, ni hostigue a los jugadores, entrenadores o árbitros.&lt;/li&gt;
+&lt;li&gt;Aplauda el buen juego de su equipo y del contrario. Demuestre respeto hacia los jugadores del equipo contrario, sin ellos no habría partido.&lt;/li&gt;
+&lt;li&gt;Nunca ridiculice o rete a un niño por cometer errores en un partido.&lt;/li&gt;
+&lt;li&gt;Condene el uso de la violencia en todas sus formas.&lt;/li&gt;
+&lt;li&gt;Respete las decisiones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DE LOS JUGADORES: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Juega solo por el placer de hacerlo y no poder satisfacer a tus padres y entrenadores.&lt;/li&gt;
+&lt;li&gt;Juega de acuerdo a las reglas.&lt;/li&gt;
+&lt;li&gt;Nunca discutas las decisiones del árbitro. Controla tu carácter, no gesticules.&lt;/li&gt;
+&lt;li&gt;Esfuérzate de igual forma por tu propio bien y por el de tu equipo. El rendimiento de tu equipo mejorará, como así el tuyo.&lt;/li&gt;
+&lt;li&gt;Sé buen deportista. Aplaude todo buen juego, sea de tu equipo o del oponente. Trata a todos tus compañeros y a los oponentes de la misma forma que quisieras ser tratado.&lt;/li&gt;
+&lt;li&gt;Recuerda que el propósito del juego es la diversión, mejorar las destrezas y sentirse bien, juega para tu equipo.&lt;/li&gt;
+&lt;li&gt;Coopera con el entrenador, compañeros y oponentes, árbitros, pues sin ellos no podría ser posible jugar el partido.&lt;/li&gt;
+&lt;li&gt;Participa y disfruta del tercer tiempo. Haz amigos jugando a tu deporte favorito. Los resultados pasan y los amigos perduran.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/trasmallo en uk 214.jpg&quot; border=&quot;0&quot; width=&quot;545&quot; height=&quot;299&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;CODIGO DE ETICA DEPORTIVA. Consejo de Europa. 24/09/92. &lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INTRODUCCION: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El Código de ética del Consejo de Europa para el &quot;juego limpio en el deporte&quot; es una declaración de intenciones aceptada por los Ministros europeos responsables del deporte. El Código parte del principio de que las consideraciones éticas que subyacen en el &quot;juego limpio&quot; no constituyen un elemento facultativo, sino algo esencial a toda actividad deportiva, a toda política y a todo tipo de gestión que se realice en el campo del deporte, y de que dichas consideraciones se aplican en todos los niveles de la competencia y de compromiso con la actividad deportiva, tanto de carácter recreativo como de competición.&lt;/p&gt;
+&lt;p&gt;El Código aporta un sólido marco ético para luchar contra las presiones ejercidas por la sociedad moderna, las cuales implican una amenaza para los fundamentos tradicionales del deporte, que se basan en el &quot;juego limpio&quot; en el espíritu deportivo y en el movimiento voluntario.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OBJETIVOS DEL CODIGO&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;El Código pretende esencialmente promover el &quot;juego limpio&quot; entre los niños y adolescentes que serán los deportistas adultos y las figuras de mañana del deporte.&lt;/p&gt;
+&lt;p&gt;Sin embargo, el Código se dirige a las personas adultas y a las instituciones que ejercen una influencia directa o indirecta en el compromiso y la participación de los jóvenes en el deporte.&lt;/p&gt;
+&lt;p&gt;El Código engloba el concepto de derecho de los niños y adolescentes a practicar un deporte y a obtener una satisfacción de esa práctica, y el concepto de responsabilidad de los adultos y las instituciones en su condición de promotores del &quot;juego limpio&quot; y de garantes del respeto de ese derecho.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DEFINICION DE &quot;JUEGO LIMPIO&quot; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El &quot;juego limpio&quot; significa mucho más que el simple respeto de las reglas: abarca los conceptos de amistad, de respeto al adversario y de espíritu deportivo. Es, más que un comportamiento, un modo de pensar. El concepto se extiende a la lucha contra las trampas, contra el arte de engañar sin vulnerar las reglas, contra el dopaje, la violencia física y verbal, la desigualdad de oportunidades, la excesiva comercialización y la corrupción. El &quot;juego limpio&quot; es un concepto positivo.&lt;/p&gt;
+&lt;p&gt;El Código considera el deporte como una actividad sociocultural que enriquece la sociedad y la amistad entre las naciones, siempre que se practique con lealtad. El deporte es considerado asimismo como una actividad que, si se ejerce con lealtad, permite a la persona conocerse, expresarse y realizarse mejor; desarrollarse, adquirir conocimiento prácticos y demostrar sus capacidades,; el deporte hace posible la interacción social, es fuente de disfrute y aporta bienestar y salud. El deporte, con su extensa red de clubes y de aficionados, ofrece la ocasión de participar y de asumir responsabilidades sociales. Además, la participación responsable en determinadas actividades puede coadyuvar al desarrollo de la sensibilidad respecto al medio ambiente.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESPONSABILIDAD POR EL &quot;JUEGO LIMPIO&quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El Código reconoce que la participación de niños y adolescentes en las actividades deportivas se inserta en un entorno social más amplio. Admite que el individuo y la sociedad sólo pueden aprovechar plenamente las ventajas potenciales del deporte si el &quot;juego limpio&quot; deja de ser un concepto secundario para convertirse en preocupación central; reconoce que todas las personas que, de forma directa o indirecta, favorecen e influyen en la experiencia que niños y adolescentes viven en el deporte, deben conceder una prioridad absoluta a dicho concepto.&lt;/p&gt;
+&lt;p&gt;Se trata, concretamente, de:&lt;/p&gt;
+&lt;p&gt;8.1 Los gobiernos: a todos los niveles, incluidos los organismos que trabajan con los gobiernos. Los participantes en los sectores oficiales de la educación poseen una responsabilidad especial.&lt;/p&gt;
+&lt;p&gt;8.2 Las organizaciones deportivas y vinculadas con el deporte: en particular, las federaciones deportivas y los organismos dirigentes, las asociaciones de educación física, los organismos e institutos vinculados al entrenamiento, las profesiones relacionadas con la medicina y la farmacia, y los medios de comunicación. El sector comercial, comprendidas las actividades de producción, venta y marketing de artículos deportivos, debe asimismo asumir sus responsabilidades y contribuir al fomento del &quot;juego limpio&quot;.&lt;/p&gt;
+&lt;p&gt;8.3 Las personas: específicamente, los padres, docentes, entrenadores, árbitros, mandos, directivos, administradores, periodistas, médicos y farmacéuticos, así como los deportistas de la alta competición, que sirven de modelos. El Código se aplica a todas las personas, con independencia de que participen como voluntarios o en calidad de profesionales. En su condición de espectadores, las personas pueden asumir responsabilidades complementarias. Cada una de estas instituciones y personas tiene que asumir una responsabilidad y desempeñar una función. Este Código de ética va destinado a ellas, y solamente será eficaz si todos los actores del mundo del deporte están dispuestos a asumir las responsabilidades definidas en el mismo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LOS GOBIERNOS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los gobiernos asumirán las responsabilidades siguientes:&lt;/p&gt;
+&lt;p&gt;10.1 favorecer la adopción de criterios éticos, rigurosos en todos los ámbitos sociales en los que el deporte está presente;&lt;/p&gt;
+&lt;p&gt;10.2 alentar y apoyar a las personas y organizaciones que apliquen principios éticos sanos en las actividades vinculadas con el deporte;&lt;/p&gt;
+&lt;p&gt;10.3 alentar a los profesores y monitores de educación física a que concedan importancia primordial a la promoción del deporte y al &quot;juego limpio&quot; en los programas escolares de formación deportiva;&lt;/p&gt;
+&lt;p&gt;10.4 apoyar cuantas iniciativas estén destinadas a promover el &quot;juego limpio&quot; en el deporte, en particular entre los jóvenes, y alentar a las instituciones a que concedan prioridad a este objetivo;&lt;/p&gt;
+&lt;p&gt;10.5 alentar, en los ámbitos nacional e internacional, la investigación destinada a mejorar la comprensión de los complejos problemas que afectan a la práctica del deporte juvenil, y a valorar el alcance de los comportamientos indeseables y las oportunidades de promover el &quot;juego limpio&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ORGANIZACIONES DEPORTIVAS Y VINCULADAS AL DEPORTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Las organizaciones deportivas y vinculadas al deporte asumirán las responsabilidades siguientes: Marco y contexto del &quot;juego limpio&quot;:&lt;/p&gt;
+&lt;p&gt;11.1 facilitar directivas claras en las que se definan los comportamientos conformes o contrarios a la ética, y procurar que se implante un sistema de estímulos y sanciones coherentes y ajustados en todas las modalidades y niveles de la participación;&lt;/p&gt;
+&lt;p&gt;11.2 procurar que todas las decisiones se ajusten a un código ético aplicable a su disciplina deportiva e inspirado en el Código europeo;&lt;/p&gt;
+&lt;p&gt;11.3 sensibilizar a la opinión dentro de su esfera de influencia respecto al concepto de &quot;juego limpio&quot;, mediante campañas, recompensas, material didáctico y ofertas de formación. Estas organizaciones deben, asimismo, supervisar estrechamente la marcha de estas actividades y evaluar sus efectos;&lt;/p&gt;
+&lt;p&gt;11.4 implantar sistemas que, además del éxito en la competición, recompensen el &quot;juego limpio&quot; y el desarrollo personal;&lt;/p&gt;
+&lt;p&gt;11.5 prestar apoyo y ayuda a los periodistas que fomente la &quot;buena conducta&quot;. El trabajo con los jóvenes:&lt;/p&gt;
+&lt;p&gt;11.6 velar por que las estructuras participativas prevean las necesidades específicas de los adolescentes y de los niños en crecimiento, permitiendo la participación en diversos niveles, desde la actividad recreativa hasta la alta competición;&lt;/p&gt;
+&lt;p&gt;11.7 apoyar la modificación de los reglamentos con objeto de atender las necesidades específicas de los jóvenes, poniendo de relieve no sólo el éxito competitivo, sino también el &quot;juego limpio&quot;;&lt;/p&gt;
+&lt;p&gt;11.8 velar por la implantación de garantías con objeto de impedir la explotación de los menores, en particular de los que muestren aptitudes precoces;&lt;/p&gt;
+&lt;p&gt;11.9 procurar que todos los miembros o afiliados a una organización que asuman responsabilidades respecto a los jóvenes y adolescentes posean las cualificaciones necesarias para orientarlos, formarlos y educarlos y, en especial, velar por que conozcan las transformaciones biológicas y psicológicas que implica el proceso de maduración del menor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Las personas asumirán las responsabilidades siguientes: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El comportamiento individual:&lt;/p&gt;
+&lt;p&gt;12.1 poseer un comportamiento ejemplar que ofrezca un modelo positivo a los niños y adolescentes; abstenerse en todo caso de recompensar, adoptar personalmente o pasar por alto todo comportamiento desleal por parte de terceros; imponer las sanciones adecuadas a este tipo de comportamiento;&lt;/p&gt;
+&lt;p&gt;12.2 velar por que el nivel de formación y de cualificación se ajuste a las necesidades del menor, en función de los diferentes grados de participación en el deporte. El trabajo con los jóvenes:&lt;/p&gt;
+&lt;p&gt;12.3 convertir la salud, la seguridad y el bienestar del niño o del joven atleta en la principal de sus prioridades, y lograr que estos objetivos sean prioritarios respecto al logro del éxito por persona interpuesta, o a la reputación del club, de la escuela, del entrenador o del padre;&lt;/p&gt;
+&lt;p&gt;12.4 lograr que los niños vivan una experiencia deportiva que les anime a participar toda su vida en actividades físicas saludables;&lt;/p&gt;
+&lt;p&gt;12.5 abstenerse de tratar a los niños como si fuesen pequeños adultos, teniendo, en cambio, conciencia de las transformaciones físicas y psíquicas que implica el desarrollo del niño y del modo en que influyen en el rendimiento deportivo;&lt;/p&gt;
+&lt;p&gt;12.6 abstenerse de situar al menor ante expectativas que no sea capaz de satisfacer;&lt;/p&gt;
+&lt;p&gt;12.7 reconocer la importancia que tiene el disfrute y el gozo de la competición, absteniéndose en todo caso de ejercer sobre el niño una presión indebida y contraria a su derecho a decidir libremente sobre su participación;&lt;/p&gt;
+&lt;p&gt;12.8 interesarse tanto por los individuos mejor dotados como por quienes no lo están tanto, destacando y recompensando, aparte del éxito en la competición, el desarrollo personal y la adquisición de conocimientos prácticos;&lt;/p&gt;
+&lt;p&gt;12.9 alentar a los jóvenes a que creen sus propios juegos y adopten sus propias reglas; a que actúen no sólo como competidores, sino también como entrenadores, directivos o árbitros; a que fijen su propio sistema de gratificaciones y sanciones por comportamientos leales o desleales; y a que se hagan responsables de sus actos;&lt;/p&gt;
+&lt;p&gt;12.10 facilitar a los jóvenes y a sus familiares toda la información posible, con el fin de que sean conscientes de los potenciales riesgos y atractivos del éxito.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONCLUSIÓN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El &quot;juego limpio&quot; es esencial si se desea promover y desarrollar el deporte y la participación deportiva. El comportamiento leal en el deporte, &quot;el juego limpio&quot;, es beneficioso para la persona, las organizaciones deportivas y la sociedad en su conjunto. Nuestra obligación es fomentar ese espíritu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Algo que ningún padre... &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ud. no debe insistir en ser el entrenador de su hijo, ni darle consejos continuamente. Este tipo de actitudes perjudican a la formación de la personalidad del chico. El entrenamiento debe realizarlo una persona idónea, esto le crea un sentido de responsabilidad al niño, lo que se reflejará en el futuro.&lt;/li&gt;
+&lt;li&gt;Trate de no observar las prácticas de su hijo en demasía, esto crea una situación de desconfianza hacia él y hacia el propio entrenador. En el único caso en que debe aconsejar a su hijo es cuando él se lo pida, pero sin que la &quot;habilitación&quot; le de a Ud. la atribución de realizar recriminaciones, muy por el contrario deben ser palabras de aliento.&lt;/li&gt;
+&lt;li&gt;No debe ser juez de la competencia que juegue su hijo, ni debe mofarse de los contrarios que lo enfrentan, tampoco debe aplaudir de forma estruendosa o hacer gestos figurativos que llamen la atención. Ud. Debe ser un observador silencioso ante un triunfo o una derrota, inculcando una real superación entre todos los deportistas.&lt;/li&gt;
+&lt;li&gt;Cuando su hijo juega o participa debe hacerlo por sus propios medios y por ninguna causa Ud. debe controlar la situación, no debe conversar con los jueces, no discuta las decisiones .&lt;/li&gt;
+&lt;li&gt;Si el triunfo acompaña a su hijo y lo felicitan sea solamente agradecido sin aparatosidad, ni tampoco pase a la indiferencia, muy acostumbrada en estos casos. Cuando el resultado le es adverso, no pida explicaciones de ningún tipo a su hijo, no le diga tampoco &quot;lo que Ud. hacia en su juventud&quot;; además tenga en cuenta que si decide hacerlo participe de alguna falla y su comentario para repararla nacerá de él.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/trasmallo en uk 183a.jpg&quot; border=&quot;0&quot; width=&quot;485&quot; height=&quot;268&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UN APRETON DE MANOS ENTRE OCASIONALES RIVALES ES TAN SALUDABLE QUE PREMIA AL PERDEDOR CON EL MAS GRANDE DE LOS TROFEOS: LA AMISTAD!!...&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ud. no debe forzar a su hijo a entrenarse cada vez más, si quiere tener un campeón en la familia, empiece por serlo Ud. mismo como el mejor ejemplo. El es quien debe elegir su camino y si él quiere puede, él es el que debe. En el único momento que debe intervenir es cuando su hijo disputa un partido o carrera, es cuando se comporte antideportivamente o cuando ciego de nervios arroje implementos, insulte o agreda a adversarios y jueces, llamándole a la realidad y nunca consistiendo o buscando un motivo, aunque existiera, para justificar sus errores.&lt;/li&gt;
+&lt;li&gt;Tampoco quiera transferir el deporte de su agrado o que Ud. practica, déjelo que él decida por el que le gusta, su mente y su cuerpo armonizarán mejor y si tiene condiciones naturales en la disciplina elegida podrá progresar. Tampoco quiera a toda consta ser una prolongación propia en su hijo, si el sigue en su mismo deporte, si Ud. no llegó &quot;lejos&quot; no pretenda buscar el éxito con el cuerpo de su hijo y si Ud. brilló en sus mejores tiempos, no le exija &quot;topes&quot; en sus actuaciones, ni similitudes y ni siquiera haga comparaciones. Deje libre de tensiones a su hijo.&lt;/li&gt;
+&lt;li&gt;Cuando su hijo es un niño no lo trate como si lo fuera aún más, son muchos los pequeños que se estancan en el deporte y en su personalidad, por el excesivo cariño y consentimiento.&lt;/li&gt;
+&lt;li&gt;No se interne en alguna disciplina deportiva, en sus comisiones directivas con el propósito de facilitar el &quot;ascenso&quot; de su hijo y si su hijo abandona ese deporte por otro, sepa respetar el compromiso asumido terminando su periodo, el mandato o la responsabilidad asumida sin altibajos, por el contrario demuestre el total desinterés por los &quot;acomodos&quot; o las ambiciones extra-deportivas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Carta de un hijo a todos los padres y madres del mundo&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No me des todo lo que te pido. A veces solo pido para ver hasta cuanto puedo alcanzar.&lt;/li&gt;
+&lt;li&gt;No me grites. Te respeto menos cuando lo haces, y me enseñas a gritar a mi también, y yo no quiero hacerlo.&lt;/li&gt;
+&lt;li&gt;No me des siempre órdenes. Si, en vez de órdenes, a veces me pidieras las cosas, yo lo haría más rápido y con más gusto.&lt;/li&gt;
+&lt;li&gt;Cumple las promesas, buenas y malas. Si me prometes un premio dámelo, pero también si es un castigo.&lt;/li&gt;
+&lt;li&gt;No me compares con nadie, especialmente con mi hermano o hermana. Si tu me haces lucir mejor que los demás. alguien va a sufrir; y si me haces lucir peor seré yo quien sufra.&lt;/li&gt;
+&lt;li&gt;Déjame valerme por mi mismo: si tu haces todo por mi, yo nunca voy a aprender.&lt;/li&gt;
+&lt;li&gt;No digas mentiras delante de mi ni me pidas que la diga por ti, aunque sea para sacarte de un apuro. Me haces sentir mal y perder la fe en lo que dices.&lt;/li&gt;
+&lt;li&gt;Cuando yo hago algo malo, no me exijas que te diga el &quot;Por qué lo hice&quot;, a veces ni yo mismo lo sé.&lt;/li&gt;
+&lt;li&gt;Cuando estés equivocado en algo, admítelo, y crecerá la opinión que yo tengo de ti, y me enseñarás a admitir mis equivocaciones también.&lt;/li&gt;
+&lt;li&gt;Trátame con la misma cordialidad y amabilidad con la que tratas a tus amigos, ya que porque seamos familia, no quiere decir que no podamos ser amigos también.&lt;/li&gt;
+&lt;li&gt;No me digas que haga una cosa si tu no la haces. Yo aprenderé y haré lo que tu siempre hagas, aunque no lo digas, pero no lo que tu digas y no hagas.&lt;/li&gt;
+&lt;li&gt;Cuando te cuente un problema mío, no me digas; &quot;No tengo tiempo para boberías&quot;, o &quot;Eso no tiene importancia&quot;. Trata de comprenderme y ayudarme. Y QUIÉREME Y DÍMELO. A mi me gusta oírtelo decir, aunque tu no creas necesario decírmelo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/trasmallo fc  6  -  divina pastora sanluquea  5 003-1.jpg&quot; border=&quot;0&quot; width=&quot;448&quot; height=&quot;255&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: center; font-size: 140%;&quot;&gt;&lt;strong&gt;CÓDIGO DEL JUEGO LIMPIO EN EL DEPORTE BASE &lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center; font-size: 140%;&quot;&gt; &lt;/p&gt;
+&lt;p&gt;El código tiene como objetivos:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Devolverle al joven deportista satisfacción y diversión.&lt;/li&gt;
+&lt;li&gt;Concienciar a los adultos que los niños juegan para sentirse realizados y no necesariamente para satisfacer a los adultos o miembros del grupo de sus mayores.&lt;/li&gt;
+&lt;li&gt;Estimular la participación en el deporte, haciéndolo atractivo, seguro y agradable a todos los niños.&lt;/li&gt;
+&lt;li&gt;Contribuir a que todos los participantes del deporte comprendan las responsabilidades e implicancias de la libertad de elegir entre el juego leal y desleal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CÓDIGO DEL ENTRENADOR:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sea razonable en sus demandas de tiempo, energía y entusiasmo de los jóvenes jugadores. Recuerde que tienen otros intereses.&lt;/li&gt;
+&lt;li&gt;Enseñe a sus jugadores que las reglas del juego son acuerdos mutuos que nadie debe dejar de cumplir o evadir.&lt;/li&gt;
+&lt;li&gt;Evite hacer jugar en demasía a los jugadores con mas talento. Los jugadores promedio necesitan y merecen igual tiempo.&lt;/li&gt;
+&lt;li&gt;Recuerde que los niños juegan para entretenerse y para divertirse y que ganar es tan solo una parte de ello. Nunca ridiculice o grite a los niños que cometen errores o porque pierdan un partido.&lt;/li&gt;
+&lt;li&gt;Asegúrese que los elementos a utilizar por sus dirigidos sean apropiados a la edad de los niños. La periodicidad y duración de los entrenamientos y de los partidos deberán ser acordes con la edad de los niños.&lt;/li&gt;
+&lt;li&gt;Fomente el respeto del equipo con las destrezas del grupo o oponente, como así también hacia las decisiones de los árbitros y entrenadores contrarios.&lt;/li&gt;
+&lt;li&gt;Siga consejos médicos para saber cuando un jugador lesionado pueda volver a jugar.&lt;/li&gt;
+&lt;li&gt;Recuerde que los niños necesitan un entrenador al cual poder respetar. Sea generoso con sus elogios cuando son merecidos y dé un buen ejemplo.&lt;/li&gt;
+&lt;li&gt;Asuma el compromiso personal de mantenerse informado acerca de las reglas del juego y de los métodos de enseñanza.&lt;/li&gt;
+&lt;li&gt;Ayude a que los niños a comprendan las diferencias entre los partidos de los adultos y los partidos que ellos juegan.&lt;/li&gt;
+&lt;li&gt;Inculque la importancia fundamental del tercer tiempo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DE PADRES: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No obligue a su hijo a practicar un deporte que no desea. Recuerde que los niños practican un deporte para su propia diversión, no la suya.&lt;/li&gt;
+&lt;li&gt;Aliente a su hijo a jugar de acuerdo a las reglas.&lt;/li&gt;
+&lt;li&gt;Enseñe a su hijo que el esfuerzo honesto es tan importante como la victoria a efecto de que el resultado de cada partido sea aceptado sin una indebida desilusión.&lt;/li&gt;
+&lt;li&gt;Convierta una derrota en victoria ayudando a su hijo a mejorar sus destrezas y a ser un buen deportista. Nunca ridiculice a su hijo por cometer errores o porque pierda un partido.&lt;/li&gt;
+&lt;li&gt;Recuerde que los niños aprenden mediante el ejemplo. Aplauda el buen juego de su equipo y el del oponente.&lt;/li&gt;
+&lt;li&gt;Nunca cuestione las decisiones de los árbitros y menos su honestidad.&lt;/li&gt;
+&lt;li&gt;Apoye todos los esfuerzos para eliminar los abusos físicos y verbales del deporte infantil.&lt;/li&gt;
+&lt;li&gt;Reconozca el valor y la importancia de los auxiliares voluntarios. Aportan su tiempo y esfuerzos para brindar una actividad recreativa a sus hijos.&lt;/li&gt;
+&lt;li&gt;Contribuya a que los niños entiendan la importancia del tercer tiempo.&lt;/li&gt;
+&lt;li&gt;Ayude a que su hijo comprenda las diferencias que existen entre los partidos que ellos juegan y los partidos de los adultos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DE LOS ARBITROS: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adapte las reglas y reglamentaciones al nivel de destrezas de los jugadores.&lt;/li&gt;
+&lt;li&gt;Emplee el sentido común a fin de asegurar que el espíritu del juego, para los niños, no se pierda interrumpiendo excesivamente el partido.&lt;/li&gt;
+&lt;li&gt;Las acciones hablan más que las palabras. Asegúrese que sus acciones y comportamiento dentro y fuera de la cancha sea coherente con los principios de un buen deportista.&lt;/li&gt;
+&lt;li&gt;Elogie el juego de ambos equipos cada vez que ello sea merecido. Sea objetivo, coherente y cortés. Condene la mala jugada deliberada por ser poco deportiva. Conservando de esta forma el respeto por el juego limpio.&lt;/li&gt;
+&lt;li&gt;Asuma el compromiso personal de mantenerse informado acerca de los principios cabales del arbitraje, así como los principios del crecimiento y desarrollo de los niños.&lt;/li&gt;
+&lt;li&gt;No olvide su tarea formativa. Asegúrese que sus decisiones sean comprendidos por los jugadores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DE LOS COORDINADORES: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Asegúrese que iguales posibilidades para participar en el deporte sean ofrecidas a todos los niños, sin consideraciones de habilidad, edad u otras circunstancias.&lt;/li&gt;
+&lt;li&gt;Vigile que los entrenadores de su Club creen oportunidades para enseñar el espíritu deportivo, de la misma manera que lo hacen con las destrezas básicas.&lt;/li&gt;
+&lt;li&gt;Aliente a los entrenadores a desarrollar destrezas básicas y evite la excesiva especialización en el juego posicional durante los años formativos.&lt;/li&gt;
+&lt;li&gt;Asegúrese que los elementos a utilizar sean apropiados a la edad de los niños. Las reglas y duración de las programaciones deberán tener en consideración la edad y nivel de comprensión de los niños.&lt;/li&gt;
+&lt;li&gt;Distribuya un código de &quot;ética&quot; sobre el buen deportista entre sus jugadores, entrenadores, espectadores, padres y árbitros. Asegúrese que los padres, entrenadores, médicos y participantes comprendan su autoridad y responsabilidad para el juego leal.&lt;/li&gt;
+&lt;li&gt;Preocúpese de la capacitación de los entrenadores, proporcionándole la información a su alcance.&lt;/li&gt;
+&lt;li&gt;Preocúpese de crear condiciones para el cumplimiento del tercer tiempo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DEL ESPECTADOR: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recuerde que los niños participan en deportes organizados para su propio entretenimiento. No están allí para entretenerlo a Ud. y no son sus &quot;estrellas&quot; en miniatura.&lt;/li&gt;
+&lt;li&gt;Muestre su mejor comportamiento. No emplee lenguaje indebido, ni hostigue a los jugadores, entrenadores o árbitros.&lt;/li&gt;
+&lt;li&gt;Aplauda el buen juego de su equipo y del contrario. Demuestre respeto hacia los jugadores del equipo contrario, sin ellos no habría partido.&lt;/li&gt;
+&lt;li&gt;Nunca ridiculice o rete a un niño por cometer errores en un partido.&lt;/li&gt;
+&lt;li&gt;Condene el uso de la violencia en todas sus formas.&lt;/li&gt;
+&lt;li&gt;Respete las decisiones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CODIGO DE LOS JUGADORES: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Juega solo por el placer de hacerlo y no poder satisfacer a tus padres y entrenadores.&lt;/li&gt;
+&lt;li&gt;Juega de acuerdo a las reglas.&lt;/li&gt;
+&lt;li&gt;Nunca discutas las decisiones del árbitro. Controla tu carácter, no gesticules.&lt;/li&gt;
+&lt;li&gt;Esfuérzate de igual forma por tu propio bien y por el de tu equipo. El rendimiento de tu equipo mejorará, como así el tuyo.&lt;/li&gt;
+&lt;li&gt;Sé buen deportista. Aplaude todo buen juego, sea de tu equipo o del oponente. Trata a todos tus compañeros y a los oponentes de la misma forma que quisieras ser tratado.&lt;/li&gt;
+&lt;li&gt;Recuerda que el propósito del juego es la diversión, mejorar las destrezas y sentirse bien, juega para tu equipo.&lt;/li&gt;
+&lt;li&gt;Coopera con el entrenador, compañeros y oponentes, árbitros, pues sin ellos no podría ser posible jugar el partido.&lt;/li&gt;
+&lt;li&gt;Participa y disfruta del tercer tiempo. Haz amigos jugando a tu deporte favorito. Los resultados pasan y los amigos perduran.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/trasmallo en uk 214.jpg&quot; border=&quot;0&quot; width=&quot;545&quot; height=&quot;299&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;CODIGO DE ETICA DEPORTIVA. Consejo de Europa. 24/09/92. &lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INTRODUCCION: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El Código de ética del Consejo de Europa para el &quot;juego limpio en el deporte&quot; es una declaración de intenciones aceptada por los Ministros europeos responsables del deporte. El Código parte del principio de que las consideraciones éticas que subyacen en el &quot;juego limpio&quot; no constituyen un elemento facultativo, sino algo esencial a toda actividad deportiva, a toda política y a todo tipo de gestión que se realice en el campo del deporte, y de que dichas consideraciones se aplican en todos los niveles de la competencia y de compromiso con la actividad deportiva, tanto de carácter recreativo como de competición.&lt;/p&gt;
+&lt;p&gt;El Código aporta un sólido marco ético para luchar contra las presiones ejercidas por la sociedad moderna, las cuales implican una amenaza para los fundamentos tradicionales del deporte, que se basan en el &quot;juego limpio&quot; en el espíritu deportivo y en el movimiento voluntario.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OBJETIVOS DEL CODIGO&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;El Código pretende esencialmente promover el &quot;juego limpio&quot; entre los niños y adolescentes que serán los deportistas adultos y las figuras de mañana del deporte.&lt;/p&gt;
+&lt;p&gt;Sin embargo, el Código se dirige a las personas adultas y a las instituciones que ejercen una influencia directa o indirecta en el compromiso y la participación de los jóvenes en el deporte.&lt;/p&gt;
+&lt;p&gt;El Código engloba el concepto de derecho de los niños y adolescentes a practicar un deporte y a obtener una satisfacción de esa práctica, y el concepto de responsabilidad de los adultos y las instituciones en su condición de promotores del &quot;juego limpio&quot; y de garantes del respeto de ese derecho.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DEFINICION DE &quot;JUEGO LIMPIO&quot; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El &quot;juego limpio&quot; significa mucho más que el simple respeto de las reglas: abarca los conceptos de amistad, de respeto al adversario y de espíritu deportivo. Es, más que un comportamiento, un modo de pensar. El concepto se extiende a la lucha contra las trampas, contra el arte de engañar sin vulnerar las reglas, contra el dopaje, la violencia física y verbal, la desigualdad de oportunidades, la excesiva comercialización y la corrupción. El &quot;juego limpio&quot; es un concepto positivo.&lt;/p&gt;
+&lt;p&gt;El Código considera el deporte como una actividad sociocultural que enriquece la sociedad y la amistad entre las naciones, siempre que se practique con lealtad. El deporte es considerado asimismo como una actividad que, si se ejerce con lealtad, permite a la persona conocerse, expresarse y realizarse mejor; desarrollarse, adquirir conocimiento prácticos y demostrar sus capacidades,; el deporte hace posible la interacción social, es fuente de disfrute y aporta bienestar y salud. El deporte, con su extensa red de clubes y de aficionados, ofrece la ocasión de participar y de asumir responsabilidades sociales. Además, la participación responsable en determinadas actividades puede coadyuvar al desarrollo de la sensibilidad respecto al medio ambiente.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESPONSABILIDAD POR EL &quot;JUEGO LIMPIO&quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El Código reconoce que la participación de niños y adolescentes en las actividades deportivas se inserta en un entorno social más amplio. Admite que el individuo y la sociedad sólo pueden aprovechar plenamente las ventajas potenciales del deporte si el &quot;juego limpio&quot; deja de ser un concepto secundario para convertirse en preocupación central; reconoce que todas las personas que, de forma directa o indirecta, favorecen e influyen en la experiencia que niños y adolescentes viven en el deporte, deben conceder una prioridad absoluta a dicho concepto.&lt;/p&gt;
+&lt;p&gt;Se trata, concretamente, de:&lt;/p&gt;
+&lt;p&gt;8.1 Los gobiernos: a todos los niveles, incluidos los organismos que trabajan con los gobiernos. Los participantes en los sectores oficiales de la educación poseen una responsabilidad especial.&lt;/p&gt;
+&lt;p&gt;8.2 Las organizaciones deportivas y vinculadas con el deporte: en particular, las federaciones deportivas y los organismos dirigentes, las asociaciones de educación física, los organismos e institutos vinculados al entrenamiento, las profesiones relacionadas con la medicina y la farmacia, y los medios de comunicación. El sector comercial, comprendidas las actividades de producción, venta y marketing de artículos deportivos, debe asimismo asumir sus responsabilidades y contribuir al fomento del &quot;juego limpio&quot;.&lt;/p&gt;
+&lt;p&gt;8.3 Las personas: específicamente, los padres, docentes, entrenadores, árbitros, mandos, directivos, administradores, periodistas, médicos y farmacéuticos, así como los deportistas de la alta competición, que sirven de modelos. El Código se aplica a todas las personas, con independencia de que participen como voluntarios o en calidad de profesionales. En su condición de espectadores, las personas pueden asumir responsabilidades complementarias. Cada una de estas instituciones y personas tiene que asumir una responsabilidad y desempeñar una función. Este Código de ética va destinado a ellas, y solamente será eficaz si todos los actores del mundo del deporte están dispuestos a asumir las responsabilidades definidas en el mismo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LOS GOBIERNOS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los gobiernos asumirán las responsabilidades siguientes:&lt;/p&gt;
+&lt;p&gt;10.1 favorecer la adopción de criterios éticos, rigurosos en todos los ámbitos sociales en los que el deporte está presente;&lt;/p&gt;
+&lt;p&gt;10.2 alentar y apoyar a las personas y organizaciones que apliquen principios éticos sanos en las actividades vinculadas con el deporte;&lt;/p&gt;
+&lt;p&gt;10.3 alentar a los profesores y monitores de educación física a que concedan importancia primordial a la promoción del deporte y al &quot;juego limpio&quot; en los programas escolares de formación deportiva;&lt;/p&gt;
+&lt;p&gt;10.4 apoyar cuantas iniciativas estén destinadas a promover el &quot;juego limpio&quot; en el deporte, en particular entre los jóvenes, y alentar a las instituciones a que concedan prioridad a este objetivo;&lt;/p&gt;
+&lt;p&gt;10.5 alentar, en los ámbitos nacional e internacional, la investigación destinada a mejorar la comprensión de los complejos problemas que afectan a la práctica del deporte juvenil, y a valorar el alcance de los comportamientos indeseables y las oportunidades de promover el &quot;juego limpio&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ORGANIZACIONES DEPORTIVAS Y VINCULADAS AL DEPORTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Las organizaciones deportivas y vinculadas al deporte asumirán las responsabilidades siguientes: Marco y contexto del &quot;juego limpio&quot;:&lt;/p&gt;
+&lt;p&gt;11.1 facilitar directivas claras en las que se definan los comportamientos conformes o contrarios a la ética, y procurar que se implante un sistema de estímulos y sanciones coherentes y ajustados en todas las modalidades y niveles de la participación;&lt;/p&gt;
+&lt;p&gt;11.2 procurar que todas las decisiones se ajusten a un código ético aplicable a su disciplina deportiva e inspirado en el Código europeo;&lt;/p&gt;
+&lt;p&gt;11.3 sensibilizar a la opinión dentro de su esfera de influencia respecto al concepto de &quot;juego limpio&quot;, mediante campañas, recompensas, material didáctico y ofertas de formación. Estas organizaciones deben, asimismo, supervisar estrechamente la marcha de estas actividades y evaluar sus efectos;&lt;/p&gt;
+&lt;p&gt;11.4 implantar sistemas que, además del éxito en la competición, recompensen el &quot;juego limpio&quot; y el desarrollo personal;&lt;/p&gt;
+&lt;p&gt;11.5 prestar apoyo y ayuda a los periodistas que fomente la &quot;buena conducta&quot;. El trabajo con los jóvenes:&lt;/p&gt;
+&lt;p&gt;11.6 velar por que las estructuras participativas prevean las necesidades específicas de los adolescentes y de los niños en crecimiento, permitiendo la participación en diversos niveles, desde la actividad recreativa hasta la alta competición;&lt;/p&gt;
+&lt;p&gt;11.7 apoyar la modificación de los reglamentos con objeto de atender las necesidades específicas de los jóvenes, poniendo de relieve no sólo el éxito competitivo, sino también el &quot;juego limpio&quot;;&lt;/p&gt;
+&lt;p&gt;11.8 velar por la implantación de garantías con objeto de impedir la explotación de los menores, en particular de los que muestren aptitudes precoces;&lt;/p&gt;
+&lt;p&gt;11.9 procurar que todos los miembros o afiliados a una organización que asuman responsabilidades respecto a los jóvenes y adolescentes posean las cualificaciones necesarias para orientarlos, formarlos y educarlos y, en especial, velar por que conozcan las transformaciones biológicas y psicológicas que implica el proceso de maduración del menor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Las personas asumirán las responsabilidades siguientes: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El comportamiento individual:&lt;/p&gt;
+&lt;p&gt;12.1 poseer un comportamiento ejemplar que ofrezca un modelo positivo a los niños y adolescentes; abstenerse en todo caso de recompensar, adoptar personalmente o pasar por alto todo comportamiento desleal por parte de terceros; imponer las sanciones adecuadas a este tipo de comportamiento;&lt;/p&gt;
+&lt;p&gt;12.2 velar por que el nivel de formación y de cualificación se ajuste a las necesidades del menor, en función de los diferentes grados de participación en el deporte. El trabajo con los jóvenes:&lt;/p&gt;
+&lt;p&gt;12.3 convertir la salud, la seguridad y el bienestar del niño o del joven atleta en la principal de sus prioridades, y lograr que estos objetivos sean prioritarios respecto al logro del éxito por persona interpuesta, o a la reputación del club, de la escuela, del entrenador o del padre;&lt;/p&gt;
+&lt;p&gt;12.4 lograr que los niños vivan una experiencia deportiva que les anime a participar toda su vida en actividades físicas saludables;&lt;/p&gt;
+&lt;p&gt;12.5 abstenerse de tratar a los niños como si fuesen pequeños adultos, teniendo, en cambio, conciencia de las transformaciones físicas y psíquicas que implica el desarrollo del niño y del modo en que influyen en el rendimiento deportivo;&lt;/p&gt;
+&lt;p&gt;12.6 abstenerse de situar al menor ante expectativas que no sea capaz de satisfacer;&lt;/p&gt;
+&lt;p&gt;12.7 reconocer la importancia que tiene el disfrute y el gozo de la competición, absteniéndose en todo caso de ejercer sobre el niño una presión indebida y contraria a su derecho a decidir libremente sobre su participación;&lt;/p&gt;
+&lt;p&gt;12.8 interesarse tanto por los individuos mejor dotados como por quienes no lo están tanto, destacando y recompensando, aparte del éxito en la competición, el desarrollo personal y la adquisición de conocimientos prácticos;&lt;/p&gt;
+&lt;p&gt;12.9 alentar a los jóvenes a que creen sus propios juegos y adopten sus propias reglas; a que actúen no sólo como competidores, sino también como entrenadores, directivos o árbitros; a que fijen su propio sistema de gratificaciones y sanciones por comportamientos leales o desleales; y a que se hagan responsables de sus actos;&lt;/p&gt;
+&lt;p&gt;12.10 facilitar a los jóvenes y a sus familiares toda la información posible, con el fin de que sean conscientes de los potenciales riesgos y atractivos del éxito.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONCLUSIÓN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El &quot;juego limpio&quot; es esencial si se desea promover y desarrollar el deporte y la participación deportiva. El comportamiento leal en el deporte, &quot;el juego limpio&quot;, es beneficioso para la persona, las organizaciones deportivas y la sociedad en su conjunto. Nuestra obligación es fomentar ese espíritu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Algo que ningún padre... &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ud. no debe insistir en ser el entrenador de su hijo, ni darle consejos continuamente. Este tipo de actitudes perjudican a la formación de la personalidad del chico. El entrenamiento debe realizarlo una persona idónea, esto le crea un sentido de responsabilidad al niño, lo que se reflejará en el futuro.&lt;/li&gt;
+&lt;li&gt;Trate de no observar las prácticas de su hijo en demasía, esto crea una situación de desconfianza hacia él y hacia el propio entrenador. En el único caso en que debe aconsejar a su hijo es cuando él se lo pida, pero sin que la &quot;habilitación&quot; le de a Ud. la atribución de realizar recriminaciones, muy por el contrario deben ser palabras de aliento.&lt;/li&gt;
+&lt;li&gt;No debe ser juez de la competencia que juegue su hijo, ni debe mofarse de los contrarios que lo enfrentan, tampoco debe aplaudir de forma estruendosa o hacer gestos figurativos que llamen la atención. Ud. Debe ser un observador silencioso ante un triunfo o una derrota, inculcando una real superación entre todos los deportistas.&lt;/li&gt;
+&lt;li&gt;Cuando su hijo juega o participa debe hacerlo por sus propios medios y por ninguna causa Ud. debe controlar la situación, no debe conversar con los jueces, no discuta las decisiones .&lt;/li&gt;
+&lt;li&gt;Si el triunfo acompaña a su hijo y lo felicitan sea solamente agradecido sin aparatosidad, ni tampoco pase a la indiferencia, muy acostumbrada en estos casos. Cuando el resultado le es adverso, no pida explicaciones de ningún tipo a su hijo, no le diga tampoco &quot;lo que Ud. hacia en su juventud&quot;; además tenga en cuenta que si decide hacerlo participe de alguna falla y su comentario para repararla nacerá de él.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/trasmallo en uk 183a.jpg&quot; border=&quot;0&quot; width=&quot;485&quot; height=&quot;268&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UN APRETON DE MANOS ENTRE OCASIONALES RIVALES ES TAN SALUDABLE QUE PREMIA AL PERDEDOR CON EL MAS GRANDE DE LOS TROFEOS: LA AMISTAD!!...&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ud. no debe forzar a su hijo a entrenarse cada vez más, si quiere tener un campeón en la familia, empiece por serlo Ud. mismo como el mejor ejemplo. El es quien debe elegir su camino y si él quiere puede, él es el que debe. En el único momento que debe intervenir es cuando su hijo disputa un partido o carrera, es cuando se comporte antideportivamente o cuando ciego de nervios arroje implementos, insulte o agreda a adversarios y jueces, llamándole a la realidad y nunca consistiendo o buscando un motivo, aunque existiera, para justificar sus errores.&lt;/li&gt;
+&lt;li&gt;Tampoco quiera transferir el deporte de su agrado o que Ud. practica, déjelo que él decida por el que le gusta, su mente y su cuerpo armonizarán mejor y si tiene condiciones naturales en la disciplina elegida podrá progresar. Tampoco quiera a toda consta ser una prolongación propia en su hijo, si el sigue en su mismo deporte, si Ud. no llegó &quot;lejos&quot; no pretenda buscar el éxito con el cuerpo de su hijo y si Ud. brilló en sus mejores tiempos, no le exija &quot;topes&quot; en sus actuaciones, ni similitudes y ni siquiera haga comparaciones. Deje libre de tensiones a su hijo.&lt;/li&gt;
+&lt;li&gt;Cuando su hijo es un niño no lo trate como si lo fuera aún más, son muchos los pequeños que se estancan en el deporte y en su personalidad, por el excesivo cariño y consentimiento.&lt;/li&gt;
+&lt;li&gt;No se interne en alguna disciplina deportiva, en sus comisiones directivas con el propósito de facilitar el &quot;ascenso&quot; de su hijo y si su hijo abandona ese deporte por otro, sepa respetar el compromiso asumido terminando su periodo, el mandato o la responsabilidad asumida sin altibajos, por el contrario demuestre el total desinterés por los &quot;acomodos&quot; o las ambiciones extra-deportivas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Carta de un hijo a todos los padres y madres del mundo&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No me des todo lo que te pido. A veces solo pido para ver hasta cuanto puedo alcanzar.&lt;/li&gt;
+&lt;li&gt;No me grites. Te respeto menos cuando lo haces, y me enseñas a gritar a mi también, y yo no quiero hacerlo.&lt;/li&gt;
+&lt;li&gt;No me des siempre órdenes. Si, en vez de órdenes, a veces me pidieras las cosas, yo lo haría más rápido y con más gusto.&lt;/li&gt;
+&lt;li&gt;Cumple las promesas, buenas y malas. Si me prometes un premio dámelo, pero también si es un castigo.&lt;/li&gt;
+&lt;li&gt;No me compares con nadie, especialmente con mi hermano o hermana. Si tu me haces lucir mejor que los demás. alguien va a sufrir; y si me haces lucir peor seré yo quien sufra.&lt;/li&gt;
+&lt;li&gt;Déjame valerme por mi mismo: si tu haces todo por mi, yo nunca voy a aprender.&lt;/li&gt;
+&lt;li&gt;No digas mentiras delante de mi ni me pidas que la diga por ti, aunque sea para sacarte de un apuro. Me haces sentir mal y perder la fe en lo que dices.&lt;/li&gt;
+&lt;li&gt;Cuando yo hago algo malo, no me exijas que te diga el &quot;Por qué lo hice&quot;, a veces ni yo mismo lo sé.&lt;/li&gt;
+&lt;li&gt;Cuando estés equivocado en algo, admítelo, y crecerá la opinión que yo tengo de ti, y me enseñarás a admitir mis equivocaciones también.&lt;/li&gt;
+&lt;li&gt;Trátame con la misma cordialidad y amabilidad con la que tratas a tus amigos, ya que porque seamos familia, no quiere decir que no podamos ser amigos también.&lt;/li&gt;
+&lt;li&gt;No me digas que haga una cosa si tu no la haces. Yo aprenderé y haré lo que tu siempre hagas, aunque no lo digas, pero no lo que tu digas y no hagas.&lt;/li&gt;
+&lt;li&gt;Cuando te cuente un problema mío, no me digas; &quot;No tengo tiempo para boberías&quot;, o &quot;Eso no tiene importancia&quot;. Trata de comprenderme y ayudarme. Y QUIÉREME Y DÍMELO. A mi me gusta oírtelo decir, aunque tu no creas necesario decírmelo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/trasmallo fc  6  -  divina pastora sanluquea  5 003-1.jpg&quot; border=&quot;0&quot; width=&quot;448&quot; height=&quot;255&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+</feed>

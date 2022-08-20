@@ -1,0 +1,62 @@
+
+.chart div {
+	font: 12px sans-serif;
+	background: #141466 url(pelota.png) no-repeat top right;
+	background-size: 20px;
+	text-align: left;
+	padding: 3px;
+	margin: 5px 2px;
+	color: white;
+	border-right: 3px solid black;
+	font-weight: bold;
+	width: 100%;
+
+}
+.chart div:first-child {
+	background-color: #f87e00;
+	color: white;
+	border-right: 3px solid maroon;
+}
+.chart div span.goles {
+	float: right;
+	font-weight: normal;
+	padding-right: 20px;
+}
+/*
+==============================================
+stretchRight
+==============================================
+*/
+
+.stretchRight{
+	animation-name: stretchRight;
+	-webkit-animation-name: stretchRight;	
+
+	animation-duration: 1.5s;	
+	-webkit-animation-duration: 1.5s;
+
+	animation-timing-function: ease-out;	
+	-webkit-animation-timing-function: ease-out;	
+
+	transform-origin: 0% 0%;
+	-ms-transform-origin: 0% 0%;
+	-webkit-transform-origin: 0% 0%; 		
+}
+
+@keyframes stretchRight {
+	0% {
+		transform: scaleX(0.3);
+	}
+	100% {
+		transform: scaleX(1);
+	}							
+}
+
+@-webkit-keyframes stretchRight {
+	0% {
+		-webkit-transform: scaleX(0.3);
+	}
+	100% {
+		-webkit-transform: scaleX(1);
+	}		
+}

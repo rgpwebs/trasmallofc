@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Alevín C</title>
+		<description><![CDATA[Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.]]></description>
+		<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-17-18/alevin-c-1718</link>
+		<lastBuildDate>Sat, 20 Aug 2022 14:41:39 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-17-18/alevin-c-1718?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>trasmallofc@gmail.com (Trasmallo FC)</managingEditor>
+		<item>
+			<title>La Plantilla</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-17-18/alevin-c-1718/1271-plantilla</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-17-18/alevin-c-1718/1271-plantilla</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.trasmallofc.es/images/stories/IMG-20171209-WA0002.jpg" alt="IMG-20171209-WA0002" width="1138" height="854" style="display: block; margin-left: auto; margin-right: auto;" /></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Alevín C</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Goleadores</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-17-18/alevin-c-1718/1269-goleadores</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-17-18/alevin-c-1718/1269-goleadores</guid>
+			<description><![CDATA[<!-- Dependencies -->
+<script src="https://www.trasmallofc.es//templates/custom/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://www.trasmallofc.es//templates/custom/miso.ds.js"></script>
+<link rel="STYLESHEET" href="https://www.trasmallofc.es//templates/custom/charts.css" type="text/css">
+
+<!-- Config -->
+<script type="text/javascript">
+<!--//
+  var spreadsheet_key = "1F6WoV5YdZnsH54JSVZP6Jd0F7EElxTkeqgh7Nk2puzs";
+  var worksheet_id = "9";
+//-->
+</script>
+<!-- Our code -->
+<script src="https://www.trasmallofc.es//templates/custom/tabladegoles.js"></script>
+
+<div class="chart">&nbsp;</div>
+<p class="total">&nbsp;</p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Alevín C</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Calendario y resultados</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-17-18/alevin-c-1718/1270-calendario-resultados</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-17-18/alevin-c-1718/1270-calendario-resultados</guid>
+			<description><![CDATA[<p style="text-align: center;"><iframe style="border: 0px;" height="256" width="408" src="http://www.lapreferente.com/widgetResultados.php?comp=8800&amp;colorFondo=FCBE2D&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=Trasmallo F.C. C"></iframe></p>
+<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="440" width="408" src="http://www.lapreferente.com/widgetClasificacion.php?comp=8800&amp;colorFondo=FCBE2D&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=Trasmallo F.C. C&amp;ocultaEvolucion=1&amp;ocultaPosicionAnterior=0"></iframe></p>
+<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="256" width="408" src="http://www.lapreferente.com/widgetResultados.php?comp=8800&amp;proximaJornada=1&amp;colorFondo=FCBE2D&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=Trasmallo F.C. C"></iframe></p>
+<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="1500" width="800" src="http://www.lapreferente.com/widgetCalendario.php?comp=8800&amp;colorFondo=FCBE2D&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=Trasmallo F.C. C"></iframe></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Alevín C</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

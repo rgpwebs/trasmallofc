@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Infantil A</title>
+		<description><![CDATA[Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.]]></description>
+		<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1415/infantil-a</link>
+		<lastBuildDate>Sat, 20 Aug 2022 14:39:39 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1415/infantil-a?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>trasmallofc@gmail.com (Trasmallo FC)</managingEditor>
+		<item>
+			<title>La Plantilla del Infantil A</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1415/infantil-a/565-plantilla-infantil-a</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1415/infantil-a/565-plantilla-infantil-a</guid>
+			<description><![CDATA[<p><span style="font-size: small;">&nbsp;&nbsp;</span></p>
+<p><img src="https://www.trasmallofc.es/images/stories/Plantilla_infantil_a.jpg" alt="Plantilla infantil a" width="750" height="563" /></p>
+<p><span style="font-size: small;">&nbsp;</span></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil A</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Goleadores</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1415/infantil-a/559-goleadores</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1415/infantil-a/559-goleadores</guid>
+			<description><![CDATA[<!-- Dependencies -->
+<script src="https://www.trasmallofc.es//templates/custom/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://www.trasmallofc.es//templates/custom/miso.ds.js"></script>
+<link rel="STYLESHEET" href="https://www.trasmallofc.es//templates/custom/charts.css" type="text/css">
+
+<!-- Config -->
+<script type="text/javascript">
+<!--//
+  var spreadsheet_key = "1QMUBwtNjT8PLXlkGhM1H-Pe-cAk9qP98A8LLoFv1uRo";
+  var worksheet_id = "5";
+//-->
+</script>
+<!-- Our code -->
+<script src="https://www.trasmallofc.es//templates/custom/tabladegoles.js"></script>
+
+<div class="chart"></div>
+<p class="total"></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil A</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Calendario y resultados</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1415/infantil-a/556-calendario-y-resultados</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1415/infantil-a/556-calendario-y-resultados</guid>
+			<description><![CDATA[<p><iframe src="http://www.lapreferente.com/modulo_resultados.php?comp=5456&amp;ajustarAncho=1" width="408" height="150" style="border: 0px; display: block; margin-left: auto; margin-right: auto;"></iframe></p>
+<p><iframe src="http://www.lapreferente.com/modulo_clasificacion.php?comp=5456" width="408" height="250" style="border: 0px; display: block; margin-left: auto; margin-right: auto;"></iframe></p>
+<p><iframe src="http://www.lapreferente.com/modulo_resultados.php?comp=5456&amp;proximajornada=1" width="408" height="150" style="border: 0px; display: block; margin-left: auto; margin-right: auto;"></iframe></p>
+<p><iframe src="http://www.lapreferente.com/moduloCalendario.php?comp=5456" width="750" height="3170" style="border: 0px; display: block; margin-left: auto; margin-right: auto;"></iframe></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil A</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

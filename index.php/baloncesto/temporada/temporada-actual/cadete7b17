@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Cadete</title>
+	<subtitle type="text">Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.trasmallofc.es"/>
+	<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/cadete</id>
+	<updated>2022-08-20T14:44:23+02:00</updated>
+	<author>
+		<name>Trasmallo FC</name>
+		<email>trasmallofc@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/cadete?format=feed&amp;type=atom"/>
+	<entry>
+		<title>La Plantilla</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/cadete/587-plantilla"/>
+		<published>2014-10-16T18:32:32+02:00</published>
+		<updated>2014-10-16T18:32:32+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/cadete/587-plantilla</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/enConstruccion.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/enConstruccion.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Cadete" />
+	</entry>
+	<entry>
+		<title>Calendario y resultados</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/cadete/588-calendario"/>
+		<published>2014-10-16T18:32:32+02:00</published>
+		<updated>2014-10-16T18:32:32+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/cadete/588-calendario</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;strong&gt;Próximos partidos, resultados, calendario y clasificación &lt;a href=&quot;http://www.andaluzabaloncesto.org/cadiz/delegacion-competicion-103/competiciones-provinciales-copa-andaluc%C3%ADa-a.aspx&quot; target=&quot;_blank&quot;&gt;aquí&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;strong&gt;Próximos partidos, resultados, calendario y clasificación &lt;a href=&quot;http://www.andaluzabaloncesto.org/cadiz/delegacion-competicion-103/competiciones-provinciales-copa-andaluc%C3%ADa-a.aspx&quot; target=&quot;_blank&quot;&gt;aquí&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content>
+		<category term="Cadete" />
+	</entry>
+	<entry>
+		<title>Clasificación</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/cadete/589-clasificacion"/>
+		<published>2014-10-16T18:32:32+02:00</published>
+		<updated>2014-10-16T18:32:32+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/cadete/589-clasificacion</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/enConstruccion.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/enConstruccion.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Cadete" />
+	</entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Alevín</title>
+		<description><![CDATA[Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.]]></description>
+		<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1112/alevin</link>
+		<lastBuildDate>Sat, 20 Aug 2022 14:38:40 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1112/alevin?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>trasmallofc@gmail.com (Trasmallo FC)</managingEditor>
+		<item>
+			<title>La Plantilla del Alevín</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1112/alevin/87-plantilla-alevin</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1112/alevin/87-plantilla-alevin</guid>
+			<description><![CDATA[<table style="width: 708px; height: 498px;">
+<tbody>
+<tr>
+<td><a href="https://picasaweb.google.com/lh/photo/GTRdplFsenFzmdZDYavQENMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-7zN3_VCN7io/UM2R15NBZsI/AAAAAAAACj8/BOdK583FncU/s640/Plantilla%2520alevin%25202012-13.jpg" alt="" width="691" height="457" /></a></td>
+</tr>
+<tr>
+<td style="font-family: arial,sans-serif; font-size: 11px; text-align: right;">&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Equipo Alevín</category>
+			<pubDate>Sun, 24 Jul 2011 22:16:35 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

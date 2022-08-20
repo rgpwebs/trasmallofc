@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Infantil</title>
+		<description><![CDATA[Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.]]></description>
+		<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-18-19/infantil</link>
+		<lastBuildDate>Sat, 20 Aug 2022 14:42:33 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-18-19/infantil?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>trasmallofc@gmail.com (Trasmallo FC)</managingEditor>
+		<item>
+			<title>La Plantilla</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-18-19/infantil/1495-plantilla</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-18-19/infantil/1495-plantilla</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.trasmallofc.es/images/stories/WhatsApp_Image_2018-09-22_at_11.21.21.jpeg" alt="WhatsApp Image 2018-09-22 at 11.21.21" /></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Goleadores</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-18-19/infantil/1493-goleadores</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-18-19/infantil/1493-goleadores</guid>
+			<description><![CDATA[<!-- Dependencies -->
+<script src="https://www.trasmallofc.es//templates/custom/d3.v3.min.js" charset="utf-8" type="text/javascript"></script>
+<script src="https://www.trasmallofc.es//templates/custom/miso.ds.js" type="text/javascript"></script>
+<p><link rel="STYLESHEET" href="https://www.trasmallofc.es//templates/custom/charts.css" type="text/css" /></p>
+<!-- Config -->
+<script type="text/javascript">// <![CDATA[
+//
+  var spreadsheet_key = "1dN1WpQUA4e0Ua83UUJkqLrLXj-uEXa1ix4OieQoKlWo";
+  var worksheet_id = "12";
+// ]]></script>
+<!-- Our code -->
+<script src="https://www.trasmallofc.es//templates/custom/tabladegoles.js" type="text/javascript"></script>
+<div class="chart">&nbsp;</div>
+<p class="total">&nbsp;</p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Calendario y resultados</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-18-19/infantil/1494-calendario-resultados</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-18-19/infantil/1494-calendario-resultados</guid>
+			<description><![CDATA[<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="225" width="408" src="https://www.lapreferente.com/widgetResultados.php?comp=9462&amp;colorFondo=FCBE2D&amp;colorCabecera=&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=Trasmallo"></iframe></p>
+<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="410" width="408" src="https://www.lapreferente.com/widgetClasificacion.php?comp=9462&amp;colorFondo=FCBE2D&amp;colorCabecera=&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=Trasmallo&amp;ocultaEvolucion=0&amp;ocultaPosicionAnterior=0"></iframe></p>
+<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="225" width="408" src="https://www.lapreferente.com/widgetResultados.php?comp=9462&amp;proximaJornada=1&amp;colorFondo=FCBE2D&amp;colorCabecera=&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=Trasmallo"></iframe></p>
+<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="3170" width="800" src="https://www.lapreferente.com/widgetCalendario.php?comp=9462&amp;colorFondo=FCBE2D&amp;colorCabecera=&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=Trasmallo"></iframe></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

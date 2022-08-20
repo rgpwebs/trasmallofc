@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Benjamín A</title>
+		<description><![CDATA[Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.]]></description>
+		<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-15-16/benjamin-a-1516</link>
+		<lastBuildDate>Sat, 20 Aug 2022 14:40:19 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-15-16/benjamin-a-1516?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>trasmallofc@gmail.com (Trasmallo FC)</managingEditor>
+		<item>
+			<title>La Plantilla</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-15-16/benjamin-a-1516/783-plantilla-juvenil</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-15-16/benjamin-a-1516/783-plantilla-juvenil</guid>
+			<description><![CDATA[<p><img src="https://www.trasmallofc.es/images/stories/plantilla_benjamin_a.png" alt="plantilla benjamin a" /></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Benjamín A</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Goleadores</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-15-16/benjamin-a-1516/784-goleadores</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-15-16/benjamin-a-1516/784-goleadores</guid>
+			<description><![CDATA[<!-- Dependencies -->
+<script src="https://www.trasmallofc.es//templates/custom/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://www.trasmallofc.es//templates/custom/miso.ds.js"></script>
+<link rel="STYLESHEET" href="https://www.trasmallofc.es//templates/custom/charts.css" type="text/css">
+
+<!-- Config -->
+<script type="text/javascript">
+<!--//
+  var spreadsheet_key = "1i7WuIAzkpALlJvRq-7HyXosbqJEnclcKHUjhkHu4grY";
+  var worksheet_id = "3";
+//-->
+</script>
+<!-- Our code -->
+<script src="https://www.trasmallofc.es//templates/custom/tabladegoles.js"></script>
+
+<div class="chart">&nbsp;</div>
+<p class="total">&nbsp;</p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Benjamín A</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Calendario y resultados</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-15-16/benjamin-a-1516/785-calendario-resultados</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-15-16/benjamin-a-1516/785-calendario-resultados</guid>
+			<description><![CDATA[<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="270" width="408" src="http://www.lapreferente.com/widgetResultados.php?comp=6796&amp;colorFondo=E0770D&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=&amp;ocultaEvolucion=&amp;ocultaPosicionAnterior="></iframe><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="500" width="408" src="http://www.lapreferente.com/widgetClasificacion.php?comp=6796&amp;colorFondo=E0770D&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=&amp;ocultaEvolucion=&amp;ocultaPosicionAnterior="></iframe><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="270" width="408" src="http://www.lapreferente.com/widgetResultados.php?comp=6796&amp;proximaJornada=1&amp;colorFondo=E0770D&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=&amp;ocultaEvolucion=&amp;ocultaPosicionAnterior="></iframe><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="4700" width="800" src="http://www.lapreferente.com/widgetCalendario.php?comp=6796&amp;colorFondo=E0770D&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=&amp;ocultaEvolucion=&amp;ocultaPosicionAnterior="></iframe></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Benjamín A</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Alevín A</title>
+	<subtitle type="text">Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.trasmallofc.es"/>
+	<id>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/alevin-a-1617</id>
+	<updated>2022-08-20T14:40:52+02:00</updated>
+	<author>
+		<name>Trasmallo FC</name>
+		<email>trasmallofc@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/alevin-a-1617?format=feed&amp;type=atom"/>
+	<entry>
+		<title>La Plantilla</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/alevin-a-1617/1042-plantilla"/>
+		<published>2014-09-01T16:00:00+02:00</published>
+		<updated>2014-09-01T16:00:00+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/alevin-a-1617/1042-plantilla</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/DSC_0177a.jpg&quot; alt=&quot;DSC 0177a&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/DSC_0177a.jpg&quot; alt=&quot;DSC 0177a&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Alevín A" />
+	</entry>
+	<entry>
+		<title>Goleadores</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/alevin-a-1617/1041-goleadores"/>
+		<published>2014-09-01T16:00:00+02:00</published>
+		<updated>2014-09-01T16:00:00+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/alevin-a-1617/1041-goleadores</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;!-- Dependencies --&gt;
+&lt;script src=&quot;https://www.trasmallofc.es//templates/custom/d3.v3.min.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.trasmallofc.es//templates/custom/miso.ds.js&quot;&gt;&lt;/script&gt;
+&lt;link rel=&quot;STYLESHEET&quot; href=&quot;https://www.trasmallofc.es//templates/custom/charts.css&quot; type=&quot;text/css&quot;&gt;
+
+&lt;!-- Config --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--//
+  var spreadsheet_key = &quot;1OXg826D7WhvSHNZEeiiQX-udUyhjdSas214xyUz5uBM&quot;;
+  var worksheet_id = &quot;7&quot;;
+//--&gt;
+&lt;/script&gt;
+&lt;!-- Our code --&gt;
+&lt;script src=&quot;https://www.trasmallofc.es//templates/custom/tabladegoles.js&quot;&gt;&lt;/script&gt;
+
+&lt;div class=&quot;chart&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p class=&quot;total&quot;&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;!-- Dependencies --&gt;
+&lt;script src=&quot;https://www.trasmallofc.es//templates/custom/d3.v3.min.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.trasmallofc.es//templates/custom/miso.ds.js&quot;&gt;&lt;/script&gt;
+&lt;link rel=&quot;STYLESHEET&quot; href=&quot;https://www.trasmallofc.es//templates/custom/charts.css&quot; type=&quot;text/css&quot;&gt;
+
+&lt;!-- Config --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--//
+  var spreadsheet_key = &quot;1OXg826D7WhvSHNZEeiiQX-udUyhjdSas214xyUz5uBM&quot;;
+  var worksheet_id = &quot;7&quot;;
+//--&gt;
+&lt;/script&gt;
+&lt;!-- Our code --&gt;
+&lt;script src=&quot;https://www.trasmallofc.es//templates/custom/tabladegoles.js&quot;&gt;&lt;/script&gt;
+
+&lt;div class=&quot;chart&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p class=&quot;total&quot;&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Alevín A" />
+	</entry>
+	<entry>
+		<title>Calendario y resultados</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/alevin-a-1617/1040-calendario-resultados"/>
+		<published>2014-09-01T16:00:00+02:00</published>
+		<updated>2014-09-01T16:00:00+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/alevin-a-1617/1040-calendario-resultados</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;200&quot; width=&quot;408&quot; src=&quot;http://www.lapreferente.com/widgetResultados.php?comp=7742&amp;amp;colorFondo=E6A50E&amp;amp;anchoEscudos=25&amp;amp;fontSize=12&amp;amp;favorito=Trasmallo F.C.&amp;amp;ocultaEvolucion=&amp;amp;ocultaPosicionAnterior=&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;360&quot; width=&quot;408&quot; src=&quot;http://www.lapreferente.com/widgetClasificacion.php?comp=7742&amp;amp;colorFondo=E6A50E&amp;amp;anchoEscudos=25&amp;amp;fontSize=12&amp;amp;favorito=Trasmallo F.C.&amp;amp;ocultaEvolucion=&amp;amp;ocultaPosicionAnterior=&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;200&quot; width=&quot;408&quot; src=&quot;http://www.lapreferente.com/widgetResultados.php?comp=7742&amp;amp;proximaJornada=1&amp;amp;colorFondo=E6A50E&amp;amp;anchoEscudos=25&amp;amp;fontSize=12&amp;amp;favorito=Trasmallo F.C.&amp;amp;ocultaEvolucion=&amp;amp;ocultaPosicionAnterior=&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;2350&quot; width=&quot;800&quot; src=&quot;http://www.lapreferente.com/widgetCalendario.php?comp=7742&amp;amp;colorFondo=E6A50E&amp;amp;anchoEscudos=25&amp;amp;fontSize=12&amp;amp;favorito=Trasmallo F.C.&amp;amp;ocultaEvolucion=&amp;amp;ocultaPosicionAnterior=&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;200&quot; width=&quot;408&quot; src=&quot;http://www.lapreferente.com/widgetResultados.php?comp=7742&amp;amp;colorFondo=E6A50E&amp;amp;anchoEscudos=25&amp;amp;fontSize=12&amp;amp;favorito=Trasmallo F.C.&amp;amp;ocultaEvolucion=&amp;amp;ocultaPosicionAnterior=&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;360&quot; width=&quot;408&quot; src=&quot;http://www.lapreferente.com/widgetClasificacion.php?comp=7742&amp;amp;colorFondo=E6A50E&amp;amp;anchoEscudos=25&amp;amp;fontSize=12&amp;amp;favorito=Trasmallo F.C.&amp;amp;ocultaEvolucion=&amp;amp;ocultaPosicionAnterior=&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;200&quot; width=&quot;408&quot; src=&quot;http://www.lapreferente.com/widgetResultados.php?comp=7742&amp;amp;proximaJornada=1&amp;amp;colorFondo=E6A50E&amp;amp;anchoEscudos=25&amp;amp;fontSize=12&amp;amp;favorito=Trasmallo F.C.&amp;amp;ocultaEvolucion=&amp;amp;ocultaPosicionAnterior=&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&quot;border: 0px; display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;2350&quot; width=&quot;800&quot; src=&quot;http://www.lapreferente.com/widgetCalendario.php?comp=7742&amp;amp;colorFondo=E6A50E&amp;amp;anchoEscudos=25&amp;amp;fontSize=12&amp;amp;favorito=Trasmallo F.C.&amp;amp;ocultaEvolucion=&amp;amp;ocultaPosicionAnterior=&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+		<category term="Alevín A" />
+	</entry>
+</feed>

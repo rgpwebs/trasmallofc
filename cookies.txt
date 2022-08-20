@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.trasmallofc.es	TRUE	/	FALSE	1999999999	4b6572dfe94d765953b0194e4a94a496	3639d7fe6c34a6d6adf00b00e6d9a6d6
+

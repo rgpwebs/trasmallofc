@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Infantil B</title>
+		<description><![CDATA[Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.]]></description>
+		<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/infantil-b-1617</link>
+		<lastBuildDate>Sat, 20 Aug 2022 14:41:03 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/infantil-b-1617?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>trasmallofc@gmail.com (Trasmallo FC)</managingEditor>
+		<item>
+			<title>La Plantilla</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/infantil-b-1617/1030-plantilla</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/infantil-b-1617/1030-plantilla</guid>
+			<description><![CDATA[<p><img src="https://www.trasmallofc.es/images/stories/DSC_0161a.jpg" alt="DSC 0161a" style="display: block; margin-left: auto; margin-right: auto;" /></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil B</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Goleadores</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/infantil-b-1617/1029-goleadores</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/infantil-b-1617/1029-goleadores</guid>
+			<description><![CDATA[<!-- Dependencies -->
+<script src="https://www.trasmallofc.es//templates/custom/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://www.trasmallofc.es//templates/custom/miso.ds.js"></script>
+<link rel="STYLESHEET" href="https://www.trasmallofc.es//templates/custom/charts.css" type="text/css">
+
+<!-- Config -->
+<script type="text/javascript">
+<!--//
+  var spreadsheet_key = "1OXg826D7WhvSHNZEeiiQX-udUyhjdSas214xyUz5uBM";
+  var worksheet_id = "11";
+//-->
+</script>
+<!-- Our code -->
+<script src="https://www.trasmallofc.es//templates/custom/tabladegoles.js"></script>
+
+<div class="chart">&nbsp;</div>
+<p class="total">&nbsp;</p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil B</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+		<item>
+			<title>Calendario y resultados</title>
+			<link>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/infantil-b-1617/1028-calendario-resultados</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-16-17/infantil-b-1617/1028-calendario-resultados</guid>
+			<description><![CDATA[<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="150" width="408" src="http://www.lapreferente.com/widgetResultados.php?comp=6748&amp;colorFondo=F08309&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=&amp;ocultaEvolucion=&amp;ocultaPosicionAnterior="></iframe></p>
+<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="270" width="408" src="http://www.lapreferente.com/widgetClasificacion.php?comp=6748&amp;colorFondo=F08309&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=&amp;ocultaEvolucion=&amp;ocultaPosicionAnterior="></iframe></p>
+<p><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="150" width="408" src="http://www.lapreferente.com/widgetResultados.php?comp=6748&amp;proximaJornada=1&amp;colorFondo=F08309&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=&amp;ocultaEvolucion=&amp;ocultaPosicionAnterior="></iframe><iframe style="border: 0px; display: block; margin-left: auto; margin-right: auto;" height="1470" width="800" src="http://www.lapreferente.com/widgetCalendario.php?comp=6748&amp;colorFondo=F08309&amp;anchoEscudos=25&amp;fontSize=12&amp;favorito=&amp;ocultaEvolucion=&amp;ocultaPosicionAnterior="></iframe></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Infantil B</category>
+			<pubDate>Mon, 01 Sep 2014 16:00:00 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

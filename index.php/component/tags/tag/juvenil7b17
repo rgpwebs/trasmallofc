@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Web Oficial del Trasmallo FC - Club de fútbol y baloncesto</title>
+	<subtitle type="text">Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.trasmallofc.es"/>
+	<id>https://www.trasmallofc.es/index.php/component/tags/tag/juvenil</id>
+	<updated>2022-08-20T14:56:12+02:00</updated>
+	<author>
+		<name>Trasmallo FC</name>
+		<email>trasmallofc@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.trasmallofc.es/index.php/component/tags/tag/juvenil?format=feed&amp;type=atom"/>
+	<entry>
+		<title>JUVENIL CD VEJER BALOMPIE 1 - TRASMALLO FC 1</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/inicio/cronicas/523-juvenil-cd-vejer-balompie-1-trasmallo-fc-1"/>
+		<published>2014-09-14T18:24:33+02:00</published>
+		<updated>2014-09-14T18:24:33+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/inicio/cronicas/523-juvenil-cd-vejer-balompie-1-trasmallo-fc-1</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/106096389&quot; frameborder=&quot;0&quot; width=&quot;532&quot; height=&quot;368&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;true&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/106096389&quot; frameborder=&quot;0&quot; width=&quot;532&quot; height=&quot;368&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;true&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+		<category term="JUVENIL CD VEJER BALOMPIE 1 - TRASMALLO FC 1" />
+	</entry>
+</feed>

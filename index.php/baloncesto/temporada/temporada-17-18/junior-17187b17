@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Junior</title>
+	<subtitle type="text">Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.trasmallofc.es"/>
+	<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-17-18/junior-1718</id>
+	<updated>2022-08-20T14:44:25+02:00</updated>
+	<author>
+		<name>Trasmallo FC</name>
+		<email>trasmallofc@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-17-18/junior-1718?format=feed&amp;type=atom"/>
+	<entry>
+		<title>La Plantilla</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-17-18/junior-1718/1314-plantilla"/>
+		<published>2014-10-16T18:32:32+02:00</published>
+		<updated>2014-10-16T18:32:32+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-17-18/junior-1718/1314-plantilla</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/WhatsApp_Image_2018-04-24_at_19.24.36.jpeg&quot; alt=&quot;WhatsApp Image 2018-04-24 at 19.24.36&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;https://www.trasmallofc.es/images/stories/WhatsApp_Image_2018-04-24_at_19.24.36.jpeg&quot; alt=&quot;WhatsApp Image 2018-04-24 at 19.24.36&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Junior" />
+	</entry>
+</feed>

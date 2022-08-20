@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Cadete</title>
+	<subtitle type="text">Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.trasmallofc.es"/>
+	<id>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1112/cadete</id>
+	<updated>2022-08-20T14:38:43+02:00</updated>
+	<author>
+		<name>Trasmallo FC</name>
+		<email>trasmallofc@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1112/cadete?format=feed&amp;type=atom"/>
+	<entry>
+		<title>La Plantilla del Cadete</title>
+		<link rel="alternate" type="text/html" href="https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1112/cadete/4-plantilla-cadete"/>
+		<published>2010-07-19T19:50:33+02:00</published>
+		<updated>2010-07-19T19:50:33+02:00</updated>
+		<id>https://www.trasmallofc.es/index.php/el-club/trayectoria/temporada-1112/cadete/4-plantilla-cadete</id>
+		<author>
+			<name>Pedro</name>
+			<email>modped@gmail.com</email>
+		</author>
+		<summary type="html">&lt;table style=&quot;width: 712px; height: 559px; margin-right: auto; margin-left: auto;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://picasaweb.google.com/lh/photo/7UxRZFdO2fWcdG5j8c5d0tMTjNZETYmyPJy0liipFm0?feat=embedwebsite&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-um7uXw_xqW0/UIMH-Yo7BMI/AAAAAAAACdU/bag2AuEa8O8/s640/Plantilla%2520cadete.jpg&quot; alt=&quot;&quot; width=&quot;698&quot; height=&quot;513&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;font-family: arial,sans-serif; font-size: 11px; text-align: right;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table style=&quot;width: 712px; height: 559px; margin-right: auto; margin-left: auto;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://picasaweb.google.com/lh/photo/7UxRZFdO2fWcdG5j8c5d0tMTjNZETYmyPJy0liipFm0?feat=embedwebsite&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-um7uXw_xqW0/UIMH-Yo7BMI/AAAAAAAACdU/bag2AuEa8O8/s640/Plantilla%2520cadete.jpg&quot; alt=&quot;&quot; width=&quot;698&quot; height=&quot;513&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;font-family: arial,sans-serif; font-size: 11px; text-align: right;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+		<category term="Equipo Cadete" />
+	</entry>
+</feed>

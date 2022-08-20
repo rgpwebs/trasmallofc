@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Minibasket</title>
+		<description><![CDATA[Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.]]></description>
+		<link>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/minibasket</link>
+		<lastBuildDate>Sat, 20 Aug 2022 14:44:12 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/minibasket?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>trasmallofc@gmail.com (Trasmallo FC)</managingEditor>
+		<item>
+			<title>La Plantilla</title>
+			<link>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/minibasket/593-plantilla</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/minibasket/593-plantilla</guid>
+			<description><![CDATA[<p>&nbsp;<img src="https://www.trasmallofc.es/images/stories/DSC_0305a.jpg" alt="DSC 0305a" width="750" height="500" />&nbsp;</p>
+<p align="center">&nbsp;</p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Minibasket</category>
+			<pubDate>Thu, 16 Oct 2014 18:32:32 +0200</pubDate>
+		</item>
+		<item>
+			<title>Calendario y resultados</title>
+			<link>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/minibasket/594-calendario</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/minibasket/594-calendario</guid>
+			<description><![CDATA[<p>&nbsp;</p>
+<p align="center"><img src="https://www.trasmallofc.es/images/enConstruccion.png" alt="" /></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Minibasket</category>
+			<pubDate>Thu, 16 Oct 2014 18:32:32 +0200</pubDate>
+		</item>
+		<item>
+			<title>Clasificación</title>
+			<link>https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/minibasket/595-clasificacion</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/baloncesto/temporada/temporada-actual/minibasket/595-clasificacion</guid>
+			<description><![CDATA[<p>&nbsp;</p>
+<p align="center"><img src="https://www.trasmallofc.es/images/enConstruccion.png" alt="" /></p>]]></description>
+			<author>modped@gmail.com (Pedro)</author>
+			<category>Minibasket</category>
+			<pubDate>Thu, 16 Oct 2014 18:32:32 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

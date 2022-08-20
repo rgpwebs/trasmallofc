@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Oficial del Trasmallo FC - Club de fútbol y baloncesto - Web Oficial del Trasmallo FC - Club de fútbol y baloncesto</title>
+		<description><![CDATA[Web oficial del club de fútbol y baloncesto Trasmallo FC, de El Puerto de Santa María, Cádiz.]]></description>
+		<link>https://www.trasmallofc.es/index.php/component/tags/tag/7</link>
+		<lastBuildDate>Sat, 20 Aug 2022 14:56:05 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.trasmallofc.es/index.php/component/tags/tag/alevin?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>trasmallofc@gmail.com (Trasmallo FC)</managingEditor>
+		<item>
+			<title>ALEVIN CD SAN MARCOS 2 - TRASMALLO FC 2</title>
+			<link>https://www.trasmallofc.es/index.php/inicio/cronicas/524-alevin-cd-san-marcos-2-trasmallo-fc-2</link>
+			<guid isPermaLink="true">https://www.trasmallofc.es/index.php/inicio/cronicas/524-alevin-cd-san-marcos-2-trasmallo-fc-2</guid>
+			<description><![CDATA[<p><iframe src="//player.vimeo.com/video/106093676" frameborder="0" width="532" height="368" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="true" style="display: block; margin-left: auto; margin-right: auto;"></iframe></p>]]></description>
+			<category>ALEVIN CD SAN MARCOS 2 - TRASMALLO FC 2</category>
+			<pubDate>Sun, 14 Sep 2014 16:52:48 +0200</pubDate>
+		</item>
+	</channel>
+</rss>
